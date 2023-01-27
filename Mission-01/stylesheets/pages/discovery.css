@@ -1,0 +1,187 @@
+/* 오늘의 발견 */
+
+
+
+header{
+  text-align: center;
+}
+
+section{
+  width: 1020px;
+  height: 1010px;
+  text-align: center;
+  position: relative;
+  
+  border: 1px solid red;
+}
+
+.logo{
+  width: 176px;
+  height: 40px;
+}
+
+.subtitle{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 366px;
+  height: 28px;
+}
+
+.h2{
+ 
+  font-size: 24px;
+  vertical-align: top;
+  line-height: 28px;
+}
+
+.line{
+  margin: 0 10px;
+  vertical-align: top;
+  color: #AAA9A9;
+}
+
+.h3{
+  font-size: 16px;
+  color: #AAA9A9;
+}
+
+.all-img{
+  display: flex;
+
+}
+
+.border-tea{
+  width: 502px;
+  height: 310px;
+  border: 1px solid #0074E9;
+  position: absolute;
+  top: 60px;
+  left: 0;
+}
+
+.tea-img{
+  width: 446px;
+  height: 270px;
+  margin: 20px 28px;
+}
+
+
+.border-vaseline{
+  width: 502px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 60px;
+  right: 0;
+}
+
+.vaseline-img{
+  width: 446px;
+  height: 270px;
+  margin: 20px 28px;
+}
+
+.border-handcream{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 386px;
+  left: 0;
+}
+
+.handcream-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}
+
+.border-bibs{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 386px;
+  left: 259px;
+}
+
+.bibs-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}
+
+.border-hansem{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 386px;
+  right: 259px;
+}
+
+.hansem-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}
+
+.border-mandu{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 386px;
+  right: 0;
+}
+
+.mandu-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}
+
+.border-wettissue{
+  width: 502px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 712px;
+  left: 0;
+}
+
+.wettissue-img{
+  width: 446px;
+  height: 270px;
+  margin: 20px 28px;
+}
+
+.border-febreze{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+  position: absolute;
+  top: 712px;
+  right: 259px;
+}
+
+.febreze-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}
+
+.border-dyson{
+  width: 243px;
+  height: 310px;
+  border: 1px solid  #C4C4C4;
+ 
+}
+
+.dyson-img{
+  width: 200px;
+  height: 282px;
+  margin: 14px 21px;
+}

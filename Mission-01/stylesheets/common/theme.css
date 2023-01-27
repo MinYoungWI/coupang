@@ -1,0 +1,6 @@
+/* Theme 스타일 작성 */
+button{
+  --activate : #0074E9 ;
+  --disabled : #F3F3F3 0.2;
+}
+
